@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49645670144",
+    "project_id": "chat-app-5fb7d",
+    "storage_bucket": "chat-app-5fb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49645670144:android:7bd61074fc25b982b62de5",
+        "android_client_info": {
+          "package_name": "com.khalid.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49645670144-grmju7mp1gpkdhtlmjfhnas2r1lmpk0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQNtKVkr3Cs7AmjWgB9OoI2fBAtRGrUdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49645670144-grmju7mp1gpkdhtlmjfhnas2r1lmpk0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
